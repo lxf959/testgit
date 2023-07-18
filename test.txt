@@ -1,1 +1,4 @@
 test
+git remote add origin https://github.com/lxf959/testgit.git
+git branch -M main
+git push -u origin main
